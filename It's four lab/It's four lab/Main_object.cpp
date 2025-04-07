@@ -18,4 +18,5 @@ int main() {
 		cout << "Meaning of A: " << a << endl << "Meaning of B: " << b << endl << "Meaning of C: " << c << endl;
 	}
 	cout << "This amazing programm stop" << endl;
+	cout << "Damm i looking good" << endl;
 }
