@@ -17,4 +17,5 @@ int main() {
 		c *= -1;
 		cout << "Meaning of A: " << a << endl << "Meaning of B: " << b << endl << "Meaning of C: " << c << endl;
 	}
+	cout << "This amazing programm stop" << endl;
 }
