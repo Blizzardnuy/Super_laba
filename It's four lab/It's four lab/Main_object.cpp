@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
 	double a, b, c;
+	here:
 	cout << "Enter values for variables A, B and C: ";
 	cin >> a >> b >> c;
 	if (a > b && b > c || a < b && b < c) {
@@ -19,4 +20,15 @@ int main() {
 	}
 	cout << "This amazing programm stop" << endl;
 	cout << "Damm i looking good" << endl;
+
+	int sw;
+	cout << "Choose interaction:\n\t1 - Repeat programm. \n\tAny other - End programm.";
+	cin >> sw;
+	switch (sw) {
+	case(1):
+		goto here;
+	default:
+		cout << "Programm gonna end now";
+	}
+
 }

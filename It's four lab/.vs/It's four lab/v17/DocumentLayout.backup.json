@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u041C\u0418\u0422\u0421\u041E\\\u0412\u0420\u041F\u041E\\Lab_n_4\\It\u0027s four lab\\",
+  "WorkspaceRootPath": "D:\\VSsrc\\GitLab\\DanFiles\\Super_laba\\It\u0027s four lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB8A124D-9972-44CC-B32B-9EE3A6D55E75}|It\u0027s four lab\\It\u0027s four lab.vcxproj|E:\\\u041C\u0418\u0422\u0421\u041E\\\u0412\u0420\u041F\u041E\\Lab_n_4\\It\u0027s four lab\\It\u0027s four lab\\Main_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FB8A124D-9972-44CC-B32B-9EE3A6D55E75}|It\u0027s four lab\\It\u0027s four lab.vcxproj|D:\\VSsrc\\GitLab\\DanFiles\\Super_laba\\It\u0027s four lab\\It\u0027s four lab\\Main_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FB8A124D-9972-44CC-B32B-9EE3A6D55E75}|It\u0027s four lab\\It\u0027s four lab.vcxproj|solutionrelative:It\u0027s four lab\\Main_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main_object.cpp",
-              "DocumentMoniker": "E:\\\u041C\u0418\u0422\u0421\u041E\\\u0412\u0420\u041F\u041E\\Lab_n_4\\It\u0027s four lab\\It\u0027s four lab\\Main_object.cpp",
+              "DocumentMoniker": "D:\\VSsrc\\GitLab\\DanFiles\\Super_laba\\It\u0027s four lab\\It\u0027s four lab\\Main_object.cpp",
               "RelativeDocumentMoniker": "It\u0027s four lab\\Main_object.cpp",
-              "ToolTip": "E:\\\u041C\u0418\u0422\u0421\u041E\\\u0412\u0420\u041F\u041E\\Lab_n_4\\It\u0027s four lab\\It\u0027s four lab\\Main_object.cpp",
+              "ToolTip": "D:\\VSsrc\\GitLab\\DanFiles\\Super_laba\\It\u0027s four lab\\It\u0027s four lab\\Main_object.cpp",
               "RelativeToolTip": "It\u0027s four lab\\Main_object.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-06T07:19:32.903Z",
               "EditorCaption": ""
